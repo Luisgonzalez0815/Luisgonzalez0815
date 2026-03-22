@@ -47,7 +47,7 @@ Próximamente estaré publicando estos proyectos en este repositorio.
 ## 📫 Contacto
 
 - 📧 Email: luisfelipegonzalezcastellar@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/luisgonzalezcastellar  
+- 💼 LinkedIn: [www.linkedin.com/in/luisgonzalezcastellar ](https://www.linkedin.com/in/luisgonzalezcastellar/) 
 
 ---
 
