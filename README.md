@@ -11,7 +11,7 @@ Cuento con experiencia en desarrollo web, manejo de bases de datos MySQL y anál
 
 Actualmente estoy fortaleciendo mis habilidades prácticas mediante el desarrollo de proyectos propios, con el objetivo de seguir creciendo profesionalmente y aportar valor en el área tecnológica.
 
-📍 Colombia  
+📍 San Juan Nepomuceno, Bolivar, Colombia  
 
 ---
 
@@ -27,8 +27,19 @@ Actualmente estoy fortaleciendo mis habilidades prácticas mediante el desarroll
 
 Actualmente me encuentro desarrollando proyectos personales enfocados en:
 
-🔹 Aplicaciones web con autenticación de usuarios  
-🔹 Sistemas CRUD conectados a bases de datos  
+## 📂 Proyectos
+
+### 🔹 Sistema CRUD de Gestión de Personas
+Aplicación web desarrollada en PHP y MySQL con operaciones CRUD completas.
+
+✔ Registro, edición y eliminación de usuarios  
+✔ Validación de datos  
+✔ Manejo de errores  
+✔ Interfaz responsive con Bootstrap  
+
+🔗 Ver proyecto:
+https://github.com/Luisgonzalez0815/sistema-gestion-personas-php  
+
 🔹 Automatización de procesos con Python  
 
 Próximamente estaré publicando estos proyectos en este repositorio.
