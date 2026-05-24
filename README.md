@@ -59,8 +59,8 @@ Próximamente estaré publicando estos proyectos en este repositorio.
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Luisgonzalez0815&theme=tokyonight" alt="Luisgonzalez0815" />
+</p>
 </p>
 
 ---
