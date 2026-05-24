@@ -1,24 +1,31 @@
 <h1 align="center">Hola 👋, soy Luis Felipe Gonzalez Castellar</h1>
-<h3 align="center">Ingeniero de Software | Desarrollador Web | Apasionado por la tecnología 🚀</h3>
+<h3 align="center">Ingeniero de Software | Desarrollador Web | Apasionado por la tecnología, el desarrollo backend y la creación de soluciones web funcionales y escalables.</h3>
 
 ---
 
 ## 💻 Sobre mí
 
-Soy Ingeniero de Software de 23 años, apasionado por la tecnología y el desarrollo de soluciones que optimizan procesos. Me caracterizo por mi mentalidad de aprendizaje continuo, disciplina y compromiso con cada proyecto en el que participo.
+Soy Ingeniero de Software de 23 años con experiencia en desarrollo web utilizando PHP, MySQL, JavaScript y Bootstrap.
 
-Cuento con experiencia en desarrollo web, manejo de bases de datos MySQL y análisis de requerimientos, participando en la creación de soluciones tecnológicas a la medida. Me enfoco en escribir código limpio, eficiente y escalable.
+Me enfoco en construir aplicaciones organizadas, funcionales y orientadas a mejorar procesos mediante soluciones tecnológicas eficientes.
 
-Actualmente estoy fortaleciendo mis habilidades prácticas mediante el desarrollo de proyectos propios, con el objetivo de seguir creciendo profesionalmente y aportar valor en el área tecnológica.
+Actualmente continúo fortaleciendo mis habilidades prácticas a través del desarrollo de proyectos personales y aprendizaje continuo en nuevas tecnologías.
 
 📍 San Juan Nepomuceno, Bolivar, Colombia  
 
 ---
 
-## 🚀 Tecnologías y herramientas
+# 🚀 Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -30,7 +37,9 @@ Actualmente me encuentro desarrollando proyectos personales enfocados en:
 ## 📂 Proyectos
 
 ### 🔹 Sistema CRUD de Gestión de Personas
-Aplicación web desarrollada en PHP y MySQL con operaciones CRUD completas.
+Aplicación web desarrollada con PHP y MySQL implementando operaciones CRUD completas.
+
+Características:
 
 ✔ Registro, edición y eliminación de usuarios  
 ✔ Validación de datos  
@@ -44,22 +53,37 @@ https://github.com/Luisgonzalez0815/sistema-gestion-personas-php
 
 Próximamente estaré publicando estos proyectos en este repositorio.
 
+
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Contacto
+# 📈 Actividad
 
-- 📧 Email: luisfelipegonzalezcastellar@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/luisgonzalezcastellar ](https://www.linkedin.com/in/luisgonzalezcastellar/) 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisgonzalez0815&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ Enfocado en crecer como desarrollador y aportar soluciones tecnológicas eficientes.
+# 📫 Contacto
+
+📧 Email: [luisfelipegonzalezcastellar@gmail.com](mailto:luisfelipegonzalezcastellar@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/luisgonzalezcastellar
+
+---
+
+# 🎯 Objetivo Profesional
+
+Seguir creciendo como desarrollador backend, participar en proyectos desafiantes y aportar soluciones tecnológicas eficientes mediante desarrollo web y automatización de procesos.
+
+
