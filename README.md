@@ -91,13 +91,7 @@ https://www.linkedin.com/in/luisgonzalezcastellar
 # 🎯 Objetivo Profesional
 
 Seguir creciendo como desarrollador backend, participar en proyectos desafiantes y aportar soluciones tecnológicas eficientes mediante desarrollo web y automatización de procesos.
-# Hola 👋, soy Luis Felipe Gonzalez Castellar
 
-## Ingeniero de Software | Desarrollador Web
-
-Apasionado por la tecnología, el desarrollo backend y la creación de soluciones web funcionales y escalables.
-
----
 
 
 
