@@ -58,9 +58,15 @@ Próximamente estaré publicando estos proyectos en este repositorio.
 
 # 📊 Estadísticas de GitHub
 
+# 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luisgonzalez0815&theme=tokyonight" alt="Luisgonzalez0815" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luisgonzalez0815&theme=tokyonight" />
 </p>
 
 ---
@@ -68,8 +74,7 @@ Próximamente estaré publicando estos proyectos en este repositorio.
 # 📈 Actividad
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Estadísticas de Luis"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Lenguajes de Luis"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisgonzalez0815&theme=tokyonight"/>
 </p>
 
 ---
