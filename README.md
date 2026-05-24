@@ -68,7 +68,8 @@ Próximamente estaré publicando estos proyectos en este repositorio.
 # 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisgonzalez0815&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luisgonzalez0815&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Estadísticas de Luis"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisgonzalez0815&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Lenguajes de Luis"/>
 </p>
 
 ---
@@ -85,5 +86,18 @@ https://www.linkedin.com/in/luisgonzalezcastellar
 # 🎯 Objetivo Profesional
 
 Seguir creciendo como desarrollador backend, participar en proyectos desafiantes y aportar soluciones tecnológicas eficientes mediante desarrollo web y automatización de procesos.
+# Hola 👋, soy Luis Felipe Gonzalez Castellar
+
+## Ingeniero de Software | Desarrollador Web
+
+Apasionado por la tecnología, el desarrollo backend y la creación de soluciones web funcionales y escalables.
+
+---
+
+
+
+
+
+
 
 
